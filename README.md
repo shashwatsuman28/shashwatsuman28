@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shashwatsuman28
+- 👋 Hi, I’m Shashwat suman
 - 👀 I’m interested in different programing language and coding in general.
 - 🌱 I’m currently learning javascript from udemy and also c++ competitive on my own.
 - 💞️ I’m looking to work on any project involving javascript , css , html.
